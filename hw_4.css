@@ -1,0 +1,83 @@
+.hw4Page{
+    /* background: linear-gradient(0deg,rgb(78, 78, 228), rgb(0, 255, 221)); */
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.hw4Page__h1{
+    font-size: 80px;
+    font-weight: bold;
+    margin-top: 150px;
+}
+
+.hw4Page__mainDiv{
+    display: flex;
+    flex-direction: row;
+    width: 983px;
+}
+
+.hw4Page__hr1{
+    height: 0px;
+    width: 500px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.img{
+    height: 257px;
+    width: 450px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.hw4Page__h2{
+    margin-left: 10px;
+    font-size: 50px;
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+.hw4Page__p{
+    margin-left: 10px;
+    width: 500px;
+}
+
+.hw4Page__form{
+    display: flex;
+    flex-direction: column;
+}
+
+.hw4Page__inputName, .hw4Page__inputPhone{
+    margin-left: 10px;
+    margin-top: 20px;
+    height: 25px;
+    margin-right: 10px;
+}
+
+.hw4Page__button{
+    margin-left: 10px;
+    margin-top: 10px;
+    height: 115px;
+    margin-right: 10px;
+}
+
+.hw4Page__h3{
+    margin-left: 10px;
+    margin-top: 15px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.hw4Page__p1{
+    margin-left: 10px;
+    margin-top: 15px;
+}
+
+.hw4Page__hr2{
+    height: 0px;
+    width: 963px;
+}
